@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Object Detection GUI with YOLOv8 and Text Recognition
 
 ## Description
